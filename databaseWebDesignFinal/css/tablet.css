@@ -1,0 +1,11 @@
+.grid-layout article{
+    grid-template-areas: 
+        "habitat"
+        "information"
+        "about";
+
+}
+
+.positioning nav a{
+    padding: 0 .2%;
+}

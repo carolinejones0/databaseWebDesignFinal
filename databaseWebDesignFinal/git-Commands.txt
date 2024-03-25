@@ -1,0 +1,10 @@
+echo "# Lab-4-Amelia-Berlandi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/2022-CS-148/Lab-4-Amelia-Berlandi.git
+git push -u origin main
+git remote add origin https://github.com/2022-CS-148/Lab-4-Amelia-Berlandi.git
+git branch -M main
+git push -u origin main
